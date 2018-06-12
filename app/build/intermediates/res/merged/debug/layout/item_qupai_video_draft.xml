@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/qupai_draft_chooser_item_size"
+    android:layout_height="@dimen/qupai_draft_chooser_item_size"
+    android:layout_gravity="center_vertical"
+    android:padding="@dimen/qupai_draft_chooser_item_border"
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <com.duanqu.qupai.widget.RoundSquareView
+            android:id="@+id/draft_thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@null"
+            android:scaleType="centerCrop"
+            app:roundHeight="5dp"
+            app:roundWidth="5dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_gravity="bottom"
+            android:id="@+id/duration_layoput"
+            android:background="@drawable/effect_chooser_qupai_list_item_time_bg"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_vertical"
+                android:paddingLeft="5dp"
+                android:src="@drawable/ic_video_qupai_recorder_22" />
+
+            <TextView
+                android:id="@+id/draft_duration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:gravity="right"
+                android:paddingRight="5dp"
+                android:textColor="@android:color/white"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/drafts_chooser_qupai_list_item_bg"/>
+    </FrameLayout>
+
+</FrameLayout>

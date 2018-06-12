@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/tip"
+		android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:gravity="center_horizontal"
+		android:background="@drawable/bg_dynamic_change_tip"
+		android:orientation="vertical">
+		<TextView
+			style="@style/Qupai.Text.BalloonTip.Large"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:paddingLeft="15dp"
+			android:paddingRight="15dp"
+			android:paddingTop="38dp"
+			android:maxWidth="240dp"
+			android:textColor="@android:color/white"
+			android:id="@+id/tip_text"
+			android:text="大波动图正在向你袭来\n需要小趣给你一些提示吗"/>
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="15dp"
+			android:orientation="horizontal">
+			<Button
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="不用，我是大神"
+				android:id="@android:id/button1"/>
+			<Button
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="好啊，朕想看看"
+				android:id="@android:id/button2"/>
+		</LinearLayout>
+	</LinearLayout>
+
+	<ImageView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="23dp"
+		android:src="@drawable/balloon_tip_anchor_qupai_bottom"/>
+</LinearLayout>

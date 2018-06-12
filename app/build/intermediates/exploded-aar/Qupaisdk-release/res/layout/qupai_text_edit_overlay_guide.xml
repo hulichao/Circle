@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.duanqu.qupai.widget.TextOnlyEditOverlay
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:duanqu="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/edit_overlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+            android:id="@android:id/content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/qupaiDIYOverlayContent_frame"
+            android:contentDescription="@null"
+            android:duplicateParentState="true">
+        <com.duanqu.qupai.widget.AutoResizingTextView
+                android:id="@+id/content_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@null"
+                android:duplicateParentState="true"
+                android:gravity="center"
+                android:minWidth="40dp"
+                duanqu:strokeColor="#FFff0000"
+                duanqu:strokeJoinStyle="miter"
+                duanqu:strokeWidth="1dp"/>
+    </FrameLayout>
+
+    <View
+        android:id="@+id/content_frame_indiator"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="?attr/qupaiDIYOverlayDotte_frame"
+        android:visibility="gone"/>
+    <!--<com.duanqu.qupai.widget.DottedFrame
+        android:id="@+id/content_frame_indiator"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:visibility="gone"/>-->
+
+    <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|top">
+        <View
+                android:layout_width="@dimen/qupai_effect_diyoverlay_operation_guide_size"
+                android:layout_height="@dimen/qupai_effect_diyoverlay_operation_guide_size"
+                android:visibility="gone"
+                android:layout_gravity="center"
+                android:background="@drawable/bg_shape_round_highlight"
+                android:id="@+id/edit_overlay_cancel_guide"/>
+        <ImageView
+                android:id="@+id/btn_edit_overlay_cancel"
+                android:layout_width="@dimen/qupai_effect_diyoverlay_operation_size"
+                android:layout_height="@dimen/qupai_effect_diyoverlay_operation_size"
+                android:contentDescription="@null"
+                android:duplicateParentState="true"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:src="?attr/qupaiDIYOverlayCancel" />
+    </FrameLayout>
+
+    <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom">
+        <View
+            android:layout_width="@dimen/qupai_effect_diyoverlay_operation_guide_size"
+            android:layout_height="@dimen/qupai_effect_diyoverlay_operation_guide_size"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_shape_round_highlight"
+            android:id="@+id/edit_overlay_transform_guide"/>
+        <ImageView
+            android:id="@+id/btn_edit_overlay_transform"
+            android:layout_width="@dimen/qupai_effect_diyoverlay_operation_size"
+            android:layout_height="@dimen/qupai_effect_diyoverlay_operation_size"
+            android:contentDescription="@null"
+            android:duplicateParentState="true"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:src="?attr/qupaiDIYOverlayTransform" />
+    </FrameLayout>
+
+    <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|top">
+        <View
+            android:layout_width="@dimen/qupai_effect_diyoverlay_operation_guide_size"
+            android:layout_height="@dimen/qupai_effect_diyoverlay_operation_guide_size"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_shape_round_highlight"
+            android:id="@+id/edit_overlay_text_guide"/>
+        <ImageView
+            android:id="@+id/btn_edit_overlay_text"
+            android:layout_width="@dimen/qupai_effect_diyoverlay_operation_size"
+            android:layout_height="@dimen/qupai_effect_diyoverlay_operation_size"
+            android:contentDescription="@null"
+            android:duplicateParentState="true"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:src="?attr/qupaiDIYOverlayText"/>
+    </FrameLayout>
+
+    <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|bottom">
+        <View
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_shape_round_highlight"
+            android:id="@+id/edit_overlay_mirror_guide"/>
+        <ImageView
+            android:id="@+id/btn_edit_overlay_mirror"
+            android:layout_width="@dimen/qupai_effect_diyoverlay_operation_size"
+            android:layout_height="@dimen/qupai_effect_diyoverlay_operation_size"
+            android:contentDescription="@null"
+            android:duplicateParentState="true"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:src="?attr/qupaiDIYOverlayMirror"/>
+    </FrameLayout>
+
+</com.duanqu.qupai.widget.TextOnlyEditOverlay>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="?android:attr/windowTitleStyle"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:text="@string/qupai_dubbing_title" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+        <LinearLayout
+            android:id="@+id/dubbing_timeline_background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" />
+        <SeekBar
+            android:id="@+id/sb_dubbing_timeline"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:maxHeight="45dp"
+            android:minHeight="45dp"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:clickable="false"
+            android:longClickable="false"
+            android:indeterminate="false"
+            android:indeterminateOnly="false"
+            android:progressDrawable="@drawable/progress_qupai_dubbing_timeline"
+            android:thumb="?attr/qupaiDIYOverlayEditbar_progress"
+            android:thumbOffset="3dp"
+            android:splitTrack="false"
+            android:enabled="false" />
+    </FrameLayout>
+
+
+    <com.duanqu.qupai.view.SquareFrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <SurfaceView
+            android:id="@+id/surface_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ProgressBar
+            android:id="@+id/amplitude_bar"
+            android:layout_width="30dp"
+            android:layout_height="80dp"
+            android:layout_gravity="right|bottom"
+            android:layout_marginRight="5dp"
+            android:progressDrawable="?attr/qupaiDubbingAmplitudeProgress"
+            android:max="16"
+            android:progress="10"
+            android:indeterminateOnly="false"
+            android:indeterminate="false" />
+
+    </com.duanqu.qupai.view.SquareFrameLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ImageButton
+            android:id="@+id/btn_capture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:contentDescription="@null"
+            android:src="@drawable/btn_qupai_dubbing_capture" />
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@id/btn_capture" >
+
+            <ImageButton
+                android:id="@+id/btn_dubbing_cancel"
+                style="@style/Widget.ActionButton.Qupai.Recorder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:contentDescription="@null"
+                android:src="@drawable/btn_qupai_dubbing_cancel_cross" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@id/btn_capture" >
+
+            <ImageButton
+                android:id="@+id/btn_next"
+                style="@style/Widget.ActionButton.Qupai.Recorder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:contentDescription="@null"
+                android:src="?attr/qupaiRecordNextStepTickButton" />
+        </FrameLayout>
+    </RelativeLayout>
+
+</LinearLayout>

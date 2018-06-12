@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+      android:paddingBottom="17dp"
+      android:paddingLeft="17dp"
+      android:paddingRight="17dp"
+      android:paddingTop="37dp"
+      android:gravity="center"
+    android:background="@drawable/balloon_qupai_tip_center_top_bg"
+    android:orientation="vertical">
+    <TextView
+        style="@style/Qupai.Text.BalloonTip.Medium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="240dp"
+        android:gravity="center"
+        android:text="看来你已经会玩动图啦，小趣即将消失咯\n消失前需要再看一遍动图引导吗？"
+        />
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="12sp"
+                android:id="@android:id/button1"
+                android:text="不需要"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="12sp"
+                android:id="@android:id/button2"
+                android:text="需要"/>
+    </LinearLayout>
+
+
+</LinearLayout>

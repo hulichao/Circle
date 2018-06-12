@@ -1,0 +1,131 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/trim_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/action_bar"
+        layout="@layout/ab_qupai_trim_chooser" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/drafts_action_line"/>
+
+    <com.duanqu.qupai.view.VideoTrimFrameLayout
+        android:id="@+id/video_surfaceLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" >
+
+        <TextureView
+            android:id="@+id/video_textureview"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:scaleX="1.0001"
+            android:scaleY="1.0001"
+            android:layout_gravity="center" />
+
+        <ImageView
+            android:id="@+id/btn_playback"
+            style="@android:style/Widget.ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|bottom"
+            android:background="@null"
+            android:contentDescription="@null"
+            android:layout_marginLeft="15dp"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/video_qupai_edit_play_normal"
+            android:visibility="gone" />
+
+    </com.duanqu.qupai.view.VideoTrimFrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white"
+        android:includeFontPadding="false"
+        android:paddingLeft="10dp"
+        android:paddingRight="2dp" >
+
+        <TextView
+            android:id="@+id/video_tailor_time_start"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left|center_vertical"
+            android:textSize="16sp"
+            android:text="00:00"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/video_tailor_time_real"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="?attr/colorPrimary"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/video_tailor_time_total"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="right|center_vertical"
+            android:text="00:09"
+            android:textSize="16sp"
+            android:textColor="@android:color/black" />
+    </FrameLayout>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <!--  <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_gravity="top" >
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:src="@color/trim_green_default" />
+            </FrameLayout>
+        </LinearLayout>-->
+
+        <com.duanqu.qupai.view.HorizontalListView
+            android:id="@+id/video_tailor_image_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp" >
+        </com.duanqu.qupai.view.HorizontalListView>
+
+        <com.duanqu.qupai.view.VideoSliceSeekBar
+            android:id="@+id/seek_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="@dimen/qupai_trim_tips_margin_top"
+            android:text="@string/qupai_video_trim_tips"
+            android:textColor="@color/qupai_black_opacity_30pct"
+            android:textSize="15sp"
+            />
+    </FrameLayout>
+
+
+</LinearLayout>

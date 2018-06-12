@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_activated="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/qupai_effect_chooser_list_item_null_color" />
+            <size android:width="75dp" android:height="75dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/qupai_effect_chooser_list_item_null_img" />
+            <size android:width="75dp" android:height="75dp"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:layout_gravity="right"
+            android:src="@drawable/balloon_tip_anchor_top_left"/>
+    <TextView
+            style="@style/Qupai.Text.BalloonTip.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_dynamic_change_tip_right"
+            android:paddingBottom="15dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="43dp"
+            android:textColor="@color/tutorial_text_color"
+            android:text="@string/qupai_diy_guide_tip_timeline"/>
+</FrameLayout>

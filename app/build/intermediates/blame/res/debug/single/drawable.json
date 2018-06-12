@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_qupai_radius_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\dialog_qupai_radius_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_btn_qupai_toggle_beauty_skin.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_btn_qupai_toggle_beauty_skin.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_link_draft_box.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_link_draft_box.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_qupai_diy_download_layer.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\edit_qupai_diy_download_layer.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_recorder_timeline_clip.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_recorder_timeline_clip.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_camera_capture_pressed.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_camera_capture_pressed.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_adapter_item_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\src\\main\\res\\drawable\\selector_adapter_item_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_camera_capture_normal.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_camera_capture_normal.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_focus.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\src\\main\\res\\drawable\\shape_guide_bg_focus.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qupai_common_overscroll_glow.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\qupai_common_overscroll_glow.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_diy_qupai_timeline_frame.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\edit_diy_qupai_timeline_frame.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_cancel_cross.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_cancel_cross.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unlock_friend_drawable.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\unlock_friend_drawable.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\overlay_effect_qupai_chooser_list_item_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\overlay_effect_qupai_chooser_list_item_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tip_self_timer.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\bg_tip_self_timer.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_color_qupai_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\tab_color_qupai_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic_skin_icon_dot_gray.9.png",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\src\\main\\res\\drawable\\basic_skin_icon_dot_gray.9.png"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diy_qupai_category_new.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\diy_qupai_category_new.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_btn_edit_overlay_transform_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_btn_edit_overlay_transform_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_edit_play_qupai_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\video_edit_play_qupai_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_release_back.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_release_back.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_tab_indicator.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_tab_indicator.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diyoverlay_qupai_changegroup_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\diyoverlay_qupai_changegroup_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dynamic_change_tip.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\bg_dynamic_change_tip.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_ic_edit_effect_audio_mix.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_ic_edit_effect_audio_mix.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_selector_social_dig_name_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\src\\main\\res\\drawable\\im_selector_social_dig_name_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_qupai_radius_bg_white.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\dialog_qupai_radius_bg_white.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_qupai_radius_bg_black_50.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\dialog_qupai_radius_bg_black_50.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dynamic_change_tip_right.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\bg_dynamic_change_tip_right.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\insert_qupai_tutorial_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\insert_qupai_tutorial_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\font_list_qupai_item_stroke.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\font_list_qupai_item_stroke.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_board_qupai_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\tab_board_qupai_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_arrow_left_white.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_arrow_left_white.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_qupai_stroke_color_tab_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\text_qupai_stroke_color_tab_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_btn_qupai_dubbing.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_btn_qupai_dubbing.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\effect_chooser_qupai_list_item_time_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\effect_chooser_qupai_list_item_time_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_link_draft_box_photo.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_link_draft_box_photo.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_qupai_tip_gallery_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\balloon_qupai_tip_gallery_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\effect_chooser_qupai_list_head_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\effect_chooser_qupai_list_head_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_edit_overlay_mirror_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_edit_overlay_mirror_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diy_group_qupai_text_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\diy_group_qupai_text_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dynamic_change_tip_left.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\bg_dynamic_change_tip_left.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_thumb_qupai_trim_editbar.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_thumb_qupai_trim_editbar.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_qupai_tip_gallery_btn_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\balloon_qupai_tip_gallery_btn_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_camera_switch_facing.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_camera_switch_facing.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_camera_capture.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_camera_capture.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_background_qupai_shape.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\toast_background_qupai_shape.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_qupai_edit_effect_audio_mix.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\tab_indicator_qupai_edit_effect_audio_mix.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_edit_diy_overlay_content_frame_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_edit_diy_overlay_content_frame_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\effect_chooser_qupai_list_item_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\effect_chooser_qupai_list_item_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_font_qupai_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\tab_font_qupai_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_overlay_list_download_item.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_overlay_list_download_item.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drafts_chooser_qupai_list_item_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\drafts_chooser_qupai_list_item_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_btn_edit_overlay_text_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_btn_edit_overlay_text_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_qupai_tip_center_top_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\balloon_qupai_tip_center_top_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb_progress_qupai_audio_mix_weight.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\sb_progress_qupai_audio_mix_weight.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diy_group_qupai_item_text_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\diy_group_qupai_item_text_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_thumb_qupai_diy_editbar.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_thumb_qupai_diy_editbar.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qupai_camera_zoom_indicator_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\qupai_camera_zoom_indicator_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_qupai_overlay_text_effect.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\tab_indicator_qupai_overlay_text_effect.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_dubbing_cancel_cross.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_dubbing_cancel_cross.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg_qupai_rect.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\toast_bg_qupai_rect.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textcolor_qupai_default_shape.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\textcolor_qupai_default_shape.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_effect_list_more_item.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_effect_list_more_item.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_toggle_camera_flashlight.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_toggle_camera_flashlight.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_defaut.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\src\\main\\res\\drawable\\shape_guide_bg_defaut.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_inidcator_qupai_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\new_inidcator_qupai_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_overlay_qupai_content_frame_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\edit_overlay_qupai_content_frame_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_timeline_start.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\edit_timeline_start.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_send_qupai_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\text_send_qupai_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_btn_qupai_self_timer.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_btn_qupai_self_timer.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qupai_common_list_selector_background.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\qupai_common_list_selector_background.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_btn_edit_overlay_mirror_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_btn_edit_overlay_mirror_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_delete_draft.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_delete_draft.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_qupai_diy_new_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\guide_qupai_diy_new_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_diyoverlay_qupai_preview_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\edit_diyoverlay_qupai_preview_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_qupai_circle.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\progress_qupai_circle.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_guide_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\src\\main\\res\\drawable\\selector_guide_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_edit_diy_overlay_dotte_frame_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_edit_diy_overlay_dotte_frame_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timer_count_down_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\timer_count_down_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_beauty_screen_show.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\anim_beauty_screen_show.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qupai_common_overscroll_edge.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\qupai_common_overscroll_edge.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_btn_next_step_arrow.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_btn_next_step_arrow.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diy_group_qupai_item_ground_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\diy_group_qupai_item_ground_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_btn_edit_overlay_cancel_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_btn_edit_overlay_cancel_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_qupai_dubbing_timeline.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\progress_qupai_dubbing_timeline.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_seek_bar_progress_drawable.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_seek_bar_progress_drawable.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_diy_editbar_end_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_diy_editbar_end_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_qupai_tip_rect_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\balloon_qupai_tip_rect_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qupai_color_list_tab_indicator.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\qupai_color_list_tab_indicator.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_shape_round_highlight.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\bg_shape_round_highlight.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qupai_tab_indicator_edit_effect_photo.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\qupai_tab_indicator_edit_effect_photo.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_quit_confirm_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_quit_confirm_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_camera_capture_disabled.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_camera_capture_disabled.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_progress_drawable.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_progress_drawable.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_tab_indicator_edit_effect.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_tab_indicator_edit_effect.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_shape_dash_line.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\bg_shape_dash_line.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_diy_editbar_rectstroke.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_diy_editbar_rectstroke.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_qupai_list_tab_indicator.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\color_qupai_list_tab_indicator.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_qupai_tip_left_top_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\balloon_qupai_tip_left_top_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_clip_delete_last.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_clip_delete_last.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_download_asset.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_download_asset.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_qupai_tip_center_bottom_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\balloon_qupai_tip_center_bottom_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_qupai_bottom_bg_rect.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\guide_qupai_bottom_bg_rect.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_remake_confirm_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_remake_confirm_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar_qupai_thumb.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\seek_bar_qupai_thumb.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\effect_chooser_qupai_list_item_null_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\effect_chooser_qupai_list_item_null_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_qupai_progress_download_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_qupai_progress_download_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_qupai_radius_bg_black_30.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\dialog_qupai_radius_bg_black_30.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quit_confirm_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\quit_confirm_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_qupai_tab_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\text_color_qupai_tab_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_btn_qupai_record_next_step_tick.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_btn_qupai_record_next_step_tick.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_dubbing_capture.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_dubbing_capture.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_beauty_icon_show.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\anim_beauty_icon_show.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_qupai_tip_center_left_bg.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\balloon_qupai_tip_center_left_bg.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_qupai_drawable.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\progress_qupai_drawable.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_progress_qupai_dubbing_amplitude.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_progress_qupai_dubbing_amplitude.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_default_btn_qupai_next_step_tick.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\theme_default_btn_qupai_next_step_tick.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textcolor_qupai_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\textcolor_qupai_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_qupai_save_project.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\drawable\\btn_qupai_save_project.xml"
+    }
+]

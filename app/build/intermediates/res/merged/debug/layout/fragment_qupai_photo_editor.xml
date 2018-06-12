@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.duanqu.qupai.VideoActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/qupai_action_bar_size_edit_long"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/btn_back"
+            style="?android:attr/actionButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:layout_marginLeft="20dp"
+            android:contentDescription="@null"
+            android:src="@drawable/btn_qupai_arrow_left_white" />
+
+        <ImageView
+            android:id="@+id/btn_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:contentDescription="@null"
+            android:src="@drawable/btn_qupai_save_project" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/guide_switch"
+            android:visibility="gone"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginLeft="60dp"
+            android:src="@drawable/balloon_qupai_image"/>
+
+        <ImageView
+            android:id="@+id/btn_next"
+            style="?android:attr/actionButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginRight="20dp"
+            android:contentDescription="@null"
+            android:src="?attr/qupaiNextStepArrowButton" />
+
+    </FrameLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/drafts_action_line" />
+
+    <com.duanqu.qupai.android.widget.AspectRatioLayout
+        android:id="@+id/video"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <SurfaceView
+                android:id="@+id/surface_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        <FrameLayout
+            android:id="@+id/dynamic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:id="@+id/dynamic_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <!--<ImageView
+                android:id="@+id/preview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|left"
+                android:layout_marginBottom="9dp"
+                android:layout_marginLeft="9dp"
+                android:scaleType="center"
+                android:src="@drawable/edit_diyoverlay_qupai_preview_selector" />-->
+
+            <!--<com.duanqu.qupai.editor.TrackLineView
+                android:id="@+id/track_line"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/transparent" />-->
+
+        </FrameLayout>
+    </com.duanqu.qupai.android.widget.AspectRatioLayout>
+
+    <LinearLayout
+            android:id="@+id/tab_group_effect_chooser"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/qupai_radiogroup_size_edit_long"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            style="@style/Qupai.Widget.RadioButton.EffectChooser"
+            android:orientation="horizontal">
+
+        <FrameLayout
+                android:id="@+id/tab_effect_filter"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                style="@style/Qupai.Widget.RadioButton.EffectChooser"
+                android:layout_weight="1">
+
+            <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="4dp"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/qupai_tab_indicator_edit_effect_photo" />
+
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:textColor="?attr/qupaiEditEffectTextColor"
+                    android:gravity="center"
+                    android:text="@string/qupai_effect_filter" />
+
+        </FrameLayout>
+
+        <FrameLayout
+                android:id="@+id/tab_effect_diy_animation"
+                style="@style/Qupai.Widget.RadioButton.EffectChooser"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_weight="1">
+
+            <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="4dp"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/qupai_tab_indicator_edit_effect_photo" />
+
+            <TextView
+                    android:id="@+id/tab_effect_diy_animation_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="@string/qupai_effect_animation_overlay"
+                    android:textColor="?attr/qupaiEditEffectTextColor"
+                    android:textSize="15sp" />
+
+            <ImageView
+                    android:id="@+id/tab_effect_diy_animation_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|center_horizontal"
+                    android:gravity="center"
+                    android:paddingRight="2dp"
+                    android:paddingTop="5dp"
+                    android:layout_marginLeft="25dp"
+                    android:src="@drawable/edit_tab_hot"
+                    android:visibility="gone" />
+        </FrameLayout>
+
+        <FrameLayout
+                android:id="@+id/tab_effect_caption"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                style="@style/Qupai.Widget.RadioButton.EffectChooser"
+                android:layout_weight="1">
+
+            <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="4dp"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/qupai_tab_indicator_edit_effect_photo" />
+
+            <TextView
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="?attr/qupaiEditEffectTextColor"
+                    android:text="@string/qupai_effect_caption" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/effect_chooser_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/qupai_gray_0xd4">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/effect_list_filter"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical" />
+
+        <FrameLayout
+            android:id="@+id/effect_list_diy_animation"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/qupai_typegroup_size_edit_long"
+                android:orientation="horizontal">
+
+                <include
+                    android:id="@+id/change_diy_group"
+                    layout="@layout/item_header_qupai_diyeffect"
+                    android:layout_width="66dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="9dp"
+                    android:visibility="gone" />
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/effect_list_diyanimation_overlay"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="top"
+                    android:layout_weight="1"
+                    android:overScrollMode="never"
+                    android:scrollbars="none" />
+            </LinearLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/group"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/qupai_typegroup_size_edit_long"
+                android:layout_gravity="bottom"
+                android:background="@android:color/white"
+                android:paddingTop="1dp"
+                android:scrollbars="none" />
+        </FrameLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/effect_list_caption"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical" />
+
+    </FrameLayout>
+
+</LinearLayout>

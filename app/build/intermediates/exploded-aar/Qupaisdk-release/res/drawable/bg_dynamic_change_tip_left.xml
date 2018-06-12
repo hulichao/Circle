@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="27dp">
+        <shape android:shape="rectangle" >
+            <corners android:radius="5dp" />
+
+            <solid android:color="@color/balloon_bg_color" />
+        </shape>
+    </item>
+
+    <!--<item android:left="10dp">-->
+        <!--<bitmap-->
+            <!--android:gravity="right|top"-->
+            <!--android:src="@drawable/balloon_qupai_image" />-->
+    <!--</item>-->
+</layer-list>

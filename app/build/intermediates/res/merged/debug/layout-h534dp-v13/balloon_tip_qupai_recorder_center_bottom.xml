@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Qupai.Text.Recorder.BalloonTip.Small"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/balloon_qupai_tip_center_bottom_bg"
+    android:gravity="center"
+    android:textColor="@color/tutorial_text_color"
+    android:text="@string/qupai_video_recorder_tip_confirm_delete"
+    android:paddingBottom="20dp"
+    android:paddingLeft="13dp"
+    android:paddingRight="13dp"
+    android:paddingTop="35dp">
+
+</TextView>

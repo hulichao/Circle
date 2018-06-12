@@ -1,0 +1,50 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_dialog_insert"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="218dp"
+        android:layout_gravity="center"
+        android:background="@drawable/balloon_qupai_tip_gallery_bg"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+        <ImageView
+            android:id="@+id/gallery_tip_close_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|top"
+            android:layout_marginTop="37dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/qupai_edit_overlay_cancel"/>
+    
+        <TextView
+            android:id="@+id/layout_insert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:text="@string/qupai_import_video_guide"
+            android:textColor="@color/tutorial_text_color" />
+        
+        <Button
+            android:id="@+id/gallery_tip_import_btn"
+            android:layout_width="160dp"
+            android:layout_height="35dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/balloon_qupai_tip_gallery_btn_bg"
+            android:text="@string/qupai_recorder_gallery_tip_ok"
+            android:textSize="20sp"
+            android:textColor="@color/defalut_primary_color"/>
+
+    </FrameLayout>
+
+</FrameLayout>

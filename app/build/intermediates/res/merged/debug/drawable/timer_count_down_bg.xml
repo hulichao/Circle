@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    android:useLevel="false">
+
+    <solid android:color="@color/qupai_timer_count_down_bg"/>
+    <size android:width="169dp"
+    android:height="169dp"/>
+</shape>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/qupai_action_bar_size_edit"/>
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+    <FrameLayout
+            android:id="@+id/timelinebar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/qupai_timeline_size_edit"
+            >
+
+        <com.duanqu.qupai.widget.EditBarMaskView
+                android:id="@+id/mask"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingBottom="3dp"
+                android:paddingTop="3dp" />
+
+        <com.duanqu.qupai.widget.BackgroundMaskView
+                android:id="@+id/mask_back"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+
+        <!--
+             <View
+            android:id="@+id/progress"
+            android:layout_width="6dp"
+            android:layout_height="match_parent"
+            android:background="?attr/qupaiDIYOverlayEditbar_progress" />
+        -->
+    </FrameLayout>
+
+    <FrameLayout
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:id="@+id/tip">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:id="@+id/tip_anchor"
+                />
+
+        <TextView
+                style="@style/Qupai.Text.BalloonTip.Large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_dynamic_change_tip"
+                android:paddingBottom="15dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="43dp"
+                android:id="@+id/tip_text"
+                android:textColor="@color/tutorial_text_color"
+                />
+    </FrameLayout>
+
+
+</LinearLayout>

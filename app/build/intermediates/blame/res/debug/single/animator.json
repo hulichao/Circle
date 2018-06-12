@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\focus_area_focus_qupai_start.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\focus_area_focus_qupai_start.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\qupai_self_timer_countdown.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\qupai_self_timer_countdown.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\focus_area_focus_qupai_stop.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\focus_area_focus_qupai_stop.xml"
+    }
+]

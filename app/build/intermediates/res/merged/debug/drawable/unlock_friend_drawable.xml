@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:right="10dp">
+        <layer-list>
+            <item >
+                <shape android:shape="oval">
+                    <size android:height="48dp" android:width="48dp"/>
+                    <solid android:color="@color/qupai_color_list_default"/>
+                </shape>
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/edit_qupai_diy_unlock"/>
+            </item>
+        </layer-list>
+    </item>
+
+    <item android:left="38dp" android:top="28dp">
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <size android:height="20dp" android:width="20dp"/>
+                    <solid android:color="@color/qupai_color_list_default"/>
+                </shape>
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/edit_unlock_friend_icon"/>
+            </item>
+        </layer-list>
+    </item>
+
+</layer-list>

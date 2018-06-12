@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_exit_anim.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\src\\main\\res\\anim\\pop_exit_anim.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\qupai_diy_overlay_progress_rotate.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\anim\\qupai_diy_overlay_progress_rotate.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_enter_anim.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\src\\main\\res\\anim\\pop_enter_anim.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_qupai_exit.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\anim\\activity_close_qupai_exit.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_qupai_up.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\anim\\translate_qupai_up.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_qupai_down.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\anim\\translate_qupai_down.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    }
+]

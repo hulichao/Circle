@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <com.duanqu.qupai.android.widget.AspectRatioLayout
+                 android:id="@+id/live_camera_frame"
+                 android:layout_width="match_parent"
+                 android:layout_height="0dp">
+        <SurfaceView
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:id="@+id/surface_live"/>
+        <View android:id="@+id/live_focus_area"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/qupai_camera_focus_area" />
+        <TextView
+                android:id="@+id/live_zoom_indicator"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_gravity="top|right"
+                android:layout_marginRight="9dp"
+                android:layout_marginTop="9dp"
+                android:background="@drawable/qupai_camera_zoom_indicator_bg"
+                android:drawableTop="@drawable/ic_qupai_camera_zoom"
+                android:gravity="center|bottom"
+                android:includeFontPadding="false"
+                android:paddingBottom="3dp"
+                android:paddingTop="7dp"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+        <ImageView
+                android:id="@+id/live_beautyBtn"
+                style="?android:attr/actionButtonStyle"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="bottom|left"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="12dp"
+                android:src="?attr/qupaiBeautySkinHead" />
+        <ImageView
+                android:id="@+id/live_switch_camera"
+                style="?android:attr/actionButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|left"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="57dp"
+                android:contentDescription="@null"
+                android:src="@drawable/btn_qupai_camera_switch_facing" />
+        <TextView
+                android:id="@+id/live_beautyTips"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/toast_background_qupai_shape"
+                android:gravity="center"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:paddingBottom="9dp"
+                android:paddingLeft="18dp"
+                android:paddingRight="18dp"
+                android:paddingTop="9dp"
+                android:visibility="invisible"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+    </com.duanqu.qupai.android.widget.AspectRatioLayout>
+    <LinearLayout android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal">
+        <Button android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="StartPreview"
+                android:id="@+id/btn_startPreview"/>
+        <Button android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="StartRecord"
+                android:id="@+id/btn_startRecord"/>
+        <ImageView
+                android:id="@+id/live_close"
+                style="@style/Widget.ActionButton.Qupai.Recorder"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="7dp"
+                android:contentDescription="@null"
+                android:scaleType="center"
+                android:src="@drawable/btn_qupai_cancel_cross" />
+    </LinearLayout>
+    <EditText android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:text="Hello world!"
+              android:id="@+id/tv_info"/>
+</LinearLayout>

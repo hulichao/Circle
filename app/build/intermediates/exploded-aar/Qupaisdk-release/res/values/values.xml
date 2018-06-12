@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="qupai_text_edit_colors">
+        <item>#ffffff</item>
+        <item>#efe0cd</item>
+        <item>#fcd1ff</item>
+        <item>#ffd4c1</item>
+        <item>#fff1b1</item>
+        <item>#fffd00</item>
+        <item>#c0ff00</item>
+        <item>#83ff85</item>
+        <item>#87efe4</item>
+        <item>#6de0ff</item>
+        <item>#57bafe</item>
+        <item>#ffcc00</item>
+        <item>#ff9125</item>
+        <item>#ff7475</item>
+        <item>#e3355a</item>
+        <item>#d75cd9</item>
+        <item>#9b81fc</item>
+        <item>#906e52</item>
+        <item>#b90071</item>
+        <item>#2844af</item>
+        <item>#4e348d</item>
+        <item>#008a27</item>
+        <item>#121212</item>
+    </array>
+    <array name="qupai_text_edit_colors_stroke">
+        <item>#5e5e5e</item>
+        <item>#7f5837</item>
+        <item>#a73684</item>
+        <item>#9d481f</item>
+        <item>#368efa</item>
+        <item>#756242</item>
+        <item>#556c14</item>
+        <item>#356c4b</item>
+        <item>#01708c</item>
+        <item>#2844af</item>
+        <item>#894812</item>
+        <item>#fffd00</item>
+        <item>#feff66</item>
+    </array>
+    <attr format="reference" name="absHListViewStyle"/>
+    <attr format="reference" name="hListViewStyle"/>
+    <attr format="reference" name="horizontalProgressLayout"/>
+    <attr name="layout_reference">
+        <flag name="top" value="0x30"/>
+        <flag name="bottom" value="0x50"/>
+        <flag name="left" value="0x03"/>
+        <flag name="right" value="0x05"/>
+        <flag name="center_vertical" value="0x10"/>
+        <flag name="center_horizontal" value="0x01"/>
+        <flag name="center" value="0x11"/>
+    </attr>
+    <attr format="reference" name="progressLayout"/>
+    <attr format="reference" name="qupaiBeautySkinHead"/>
+    <attr format="reference" name="qupaiDIYOverlayCancel"/>
+    <attr format="reference" name="qupaiDIYOverlayContent_frame"/>
+    <attr format="reference" name="qupaiDIYOverlayDotte_frame"/>
+    <attr format="reference" name="qupaiDIYOverlayEditbar"/>
+    <attr format="reference" name="qupaiDIYOverlayEditbarStart"/>
+    <attr format="reference" name="qupaiDIYOverlayEditbar_frame"/>
+    <attr format="reference" name="qupaiDIYOverlayEditbar_progress"/>
+    <attr format="reference" name="qupaiDIYOverlayMirror"/>
+    <attr format="reference" name="qupaiDIYOverlayText"/>
+    <attr format="reference" name="qupaiDIYOverlayTransform"/>
+    <attr format="reference" name="qupaiDiyMaskColor"/>
+    <attr format="reference" name="qupaiDubbingAmplitudeProgress"/>
+    <attr format="reference" name="qupaiDubbingButton"/>
+    <attr format="reference" name="qupaiEditEffectAudioMixIcon"/>
+    <attr format="reference" name="qupaiEditEffectTabIndicator"/>
+    <attr format="reference" name="qupaiEditEffectTextColor"/>
+    <attr format="reference" name="qupaiEffectListMoreItem"/>
+    <attr format="reference" name="qupaiNextStepArrowButton"/>
+    <attr format="reference" name="qupaiNextStepTickButton"/>
+    <attr format="reference" name="qupaiOverlayListDownload"/>
+    <attr format="reference" name="qupaiRecordNextStepTickButton"/>
+    <attr format="reference" name="qupaiRecorderTimelineClip"/>
+    <attr format="reference" name="qupaiSelfTimerButton"/>
+    <attr format="reference" name="qupaiSweepLeft"/>
+    <attr format="reference" name="qupaiSweepright"/>
+    <attr format="reference" name="qupaiTabIndicator"/>
+    <attr format="reference" name="qupaiTrimRecordColor"/>
+    <item name="qupai_is_long_screen" type="bool">false</item>
+    <bool name="qupai_recorder_timeline_time_indicator">true</bool>
+    <color name="balloon_bg_color">#ffc600</color>
+    <color name="black_transparent_50">#80000000</color>
+    <color name="defalut_mask_bar_color">#ffde00</color>
+    <color name="defalut_primary_color">#02d4e1</color>
+    <color name="defalut_primary_color_alpha30">#4d02d4e1</color>
+    <color name="defalut_primary_color_alpha40">#6602d4e1</color>
+    <color name="defalut_primary_color_alpha50">#8002d4e1</color>
+    <color name="defalut_primary_color_pressed">#00c0cc</color>
+    <color name="drafts_action_line">#0D000000</color>
+    <color name="green_light">#c2eae4</color>
+    <color name="powered_text_color">#adadad</color>
+    <color name="quit_confirm_normal">#FF0000</color>
+    <color name="quit_confirm_pressed">#E60000</color>
+    <color name="quit_remake_confirm_normal">#FFFFFF</color>
+    <color name="quit_remake_confirm_pressed">#E9E9E9</color>
+    <color name="qupai_album_divider_line">#434343</color>
+    <color name="qupai_background_trim">#7f333333</color>
+    <color name="qupai_balloon_tip_bg_cyan">#e626b8e9</color>
+    <color name="qupai_balloon_tip_bg_yellow">#ffc600</color>
+    <color name="qupai_bg_color_list">#ffffff</color>
+    <color name="qupai_black_opacity_10pct">#1a000000</color>
+    <color name="qupai_black_opacity_30pct">#4d000000</color>
+    <color name="qupai_black_opacity_40pct">#66000000</color>
+    <color name="qupai_black_opacity_50pct">#80000000</color>
+    <color name="qupai_black_opacity_70pct">#b3000000</color>
+    <color name="qupai_color_list_default">@color/defalut_primary_color</color>
+    <color name="qupai_color_text_edit_single">#a6a6a6</color>
+    <color name="qupai_dilog_divider_line">#d9d9d9</color>
+    <color name="qupai_editor_asset_item_background">#484848</color>
+    <color name="qupai_editor_diy_item_background_default">#FB006A</color>
+    <color name="qupai_editor_diy_item_background_press">#E40060</color>
+    <item name="qupai_effect_chooser_item_text" type="color">@color/qupai_effect_chooser_item_text_short</item>
+    <color name="qupai_effect_chooser_item_text_short">#ffffff</color>
+    <color name="qupai_effect_chooser_list_item_null_color">#02d4e1</color>
+    <color name="qupai_effect_chooser_list_item_null_img">#ffde00</color>
+    <color name="qupai_gray_0x19">#191919</color>
+    <color name="qupai_gray_0x33">#333333</color>
+    <color name="qupai_gray_0x48">#484848</color>
+    <color name="qupai_gray_0x4d">#4d4d4d</color>
+    <color name="qupai_gray_0x80">#808080</color>
+    <color name="qupai_gray_0x8c">#8c8c8c</color>
+    <color name="qupai_gray_0x92">#929292</color>
+    <color name="qupai_gray_0x99">#999999</color>
+    <color name="qupai_gray_0xd4">#D4D4D4</color>
+    <color name="qupai_gray_0xe2">#E2E2E2</color>
+    <color name="qupai_gray_0xe5">#E5E5E5</color>
+    <color name="qupai_gray_0xf0">#f0f0f0</color>
+    <color name="qupai_gray_0xf2">#f2f2f2</color>
+    <color name="qupai_import_album_default_color">#02D4E1</color>
+    <color name="qupai_import_album_press_color">#00c0cc</color>
+    <color name="qupai_import_toast_bg">#99000000</color>
+    <color name="qupai_line_gray_cc">#cccccc</color>
+    <color name="qupai_recorder_timeline_background">#e9e9e9</color>
+    <item name="qupai_recording_tip_bg" type="color">@color/qupai_recording_tip_bg_short</item>
+    <color name="qupai_recording_tip_bg_long">@android:color/transparent</color>
+    <color name="qupai_recording_tip_bg_short">#4c000000</color>
+    <item name="qupai_recording_tip_text_color" type="color">@color/qupai_recording_tip_text_color_short</item>
+    <color name="qupai_recording_tip_text_color_long">@android:color/black</color>
+    <color name="qupai_recording_tip_text_color_short">@android:color/white</color>
+    <color name="qupai_select_status_color">#8002D4E1</color>
+    <color name="qupai_text_dialog_bg">#f7f7f7</color>
+    <color name="qupai_text_dialog_green_default">@color/defalut_primary_color</color>
+    <color name="qupai_text_dialog_green_press">#00c0cc</color>
+    <color name="qupai_text_dialog_nickname">#4d000000</color>
+    <color name="qupai_text_dialog_vcode">#b3000000</color>
+    <color name="qupai_theme_default_background_color">@color/defalut_primary_color</color>
+    <color name="qupai_theme_default_background_color_transparent_20">@color/defalut_primary_color_alpha30</color>
+    <color name="qupai_theme_default_background_press_color">#00c0cc</color>
+    <color name="qupai_theme_default_message_backgroud_color">#c6ebe5</color>
+    <color name="qupai_theme_default_text_color">@color/defalut_primary_color</color>
+    <color name="qupai_theme_default_text_press_color">#00c0cc</color>
+    <color name="qupai_timer_count_down_bg">#66FF0000</color>
+    <color name="qupai_translucent_0x7f">#7f7f7f7f</color>
+    <color name="qupai_transparent">#00ffffff</color>
+    <color name="qupai_trim_green_default">@color/defalut_primary_color</color>
+    <color name="qupai_white_opacity_70pct">#b3FFFFFF</color>
+    <color name="trim_seekbar_primary_color">#9AEEF3</color>
+    <color name="tutorial_text_color">#784700</color>
+    <declare-styleable name="AbsHListView"><attr name="android:listSelector"/><attr name="android:stackFromBottom"/><attr name="android:textFilterEnabled"/><attr name="android:smoothScrollbar"/><attr name="android:fastScrollEnabled"/><attr name="android:fastScrollAlwaysVisible"/><attr name="android:scrollingCache"/><attr name="android:drawSelectorOnTop"/><attr name="android:cacheColorHint"/><attr name="android:transcriptMode"/><attr name="android:choiceMode"/></declare-styleable>
+    <declare-styleable name="AbsListView"><attr name="android:listSelector"/><attr name="android:stackFromBottom"/><attr name="android:textFilterEnabled"/><attr name="android:smoothScrollbar"/><attr name="android:fastScrollEnabled"/><attr name="android:fastScrollAlwaysVisible"/><attr name="android:scrollingCache"/><attr name="android:drawSelectorOnTop"/><attr name="android:cacheColorHint"/><attr name="android:transcriptMode"/><attr name="android:choiceMode"/></declare-styleable>
+    <declare-styleable name="AlertDialog"><attr name="progressLayout"/><attr name="horizontalProgressLayout"/></declare-styleable>
+    <declare-styleable name="AutoScaleText"><attr format="dimension" name="strokeWidth"/><attr format="dimension" name="strokeMiter"/><attr format="color" name="strokeColor"/><attr name="strokeJoinStyle"><enum name="miter" value="0"/><enum name="bevel" value="1"/><enum name="round" value="2"/></attr></declare-styleable>
+    <declare-styleable name="CircleProgressBar"><attr format="dimension" name="backgroundWidth"/><attr format="dimension" name="backgroundHeight"/><attr format="dimension" name="progressWidth"/><attr format="dimension" name="progressThickness"/><attr format="color|reference" name="progressColor"/><attr format="color|reference" name="progressThicknessColor"/></declare-styleable>
+    <declare-styleable name="CircularImageView"><attr name="android:src"/></declare-styleable>
+    <declare-styleable name="EditOverlay_Layout"><attr name="android:layout_gravity"/><attr name="android:layout_width"/><attr name="android:layout_height"/></declare-styleable>
+    <declare-styleable name="ExpandableListView"><attr name="android:groupIndicator"/><attr name="android:childDivider"/><attr name="android:indicatorStart"/><attr name="android:indicatorEnd"/><attr name="android:indicatorLeft"/><attr name="android:indicatorRight"/><attr name="android:childIndicator"/><attr name="android:childIndicatorStart"/><attr name="android:childIndicatorEnd"/><attr name="android:childIndicatorLeft"/><attr name="android:childIndicatorRight"/></declare-styleable>
+    <declare-styleable name="FrameLayout_Layout"><attr name="android:layout_gravity"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="layout_reference"/></declare-styleable>
+    <declare-styleable name="HListView"><attr name="android:divider"/><attr name="android:overScrollFooter"/><attr name="android:overScrollHeader"/><attr name="android:dividerHeight"/><attr name="android:headerDividersEnabled"/><attr name="android:footerDividersEnabled"/><attr name="android:entries"/></declare-styleable>
+    <declare-styleable name="ListView"><attr name="android:divider"/><attr name="android:overScrollFooter"/><attr name="android:overScrollHeader"/><attr name="android:dividerHeight"/><attr name="android:headerDividersEnabled"/><attr name="android:footerDividersEnabled"/><attr name="android:entries"/></declare-styleable>
+    <declare-styleable name="RoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable>
+    <declare-styleable name="WeightLayout"><attr format="float" name="weightWidth"/><attr format="float" name="weightHeight"/><attr format="boolean" name="keepAspectRatio"/></declare-styleable>
+    <declare-styleable name="WeightLayout_Layout"><attr format="float" name="layout_weightX"/><attr format="float" name="layout_weightY"/></declare-styleable>
+    <declare-styleable name="qupai.AspectRatioLayout"><attr format="integer" name="qupai.originalWidth"/><attr format="integer" name="qupai.originalHeight"/></declare-styleable>
+    <declare-styleable name="qupai.AspectRatioLayout_Layout"><attr name="android:layout_gravity"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr name="android:layout_width"/><attr name="android:layout_height"/></declare-styleable>
+    <dimen name="fasthscroll_overlay_padding">16dp</dimen>
+    <dimen name="fasthscroll_overlay_size">104dp</dimen>
+    <dimen name="fasthscroll_overlay_text_size">52sp</dimen>
+    <dimen name="fasthscroll_thumb_bg_height">50dp</dimen>
+    <dimen name="fasthscroll_thumb_height">4dp</dimen>
+    <dimen name="fasthscroll_thumb_width">64dp</dimen>
+    <dimen name="fastscroll_overlay_padding">16dp</dimen>
+    <dimen name="fastscroll_overlay_size">104dp</dimen>
+    <dimen name="fastscroll_overlay_text_size">52sp</dimen>
+    <dimen name="fastscroll_thumb_height">52dp</dimen>
+    <dimen name="fastscroll_thumb_width">64dp</dimen>
+    <dimen name="powered_margin">5dp</dimen>
+    <item name="qupai_action_bar_size_edit" type="dimen">@dimen/qupai_action_bar_size_edit_short</item>
+    <dimen name="qupai_action_bar_size_edit_long">60dp</dimen>
+    <dimen name="qupai_action_bar_size_edit_short">40dp</dimen>
+    <item name="qupai_action_bar_size_recorder" type="dimen">@dimen/qupai_action_bar_size_recorder_short</item>
+    <dimen name="qupai_action_bar_size_recorder_long">60dp</dimen>
+    <dimen name="qupai_action_bar_size_recorder_short">45dp</dimen>
+    <dimen name="qupai_draft_chooser_item_border">3dp</dimen>
+    <dimen name="qupai_draft_chooser_item_new_padding">1dp</dimen>
+    <dimen name="qupai_draft_chooser_item_padding">6dp</dimen>
+    <dimen name="qupai_draft_chooser_item_size">84dp</dimen>
+    <dimen name="qupai_edit_thumbnail_bar_height_long">45dp</dimen>
+    <dimen name="qupai_edit_thumbnail_bar_height_short">40dp</dimen>
+    <dimen name="qupai_editbar_padding">34dp</dimen>
+    <dimen name="qupai_editbar_padding_1">4dp</dimen>
+    <dimen name="qupai_editbar_start_padding">10dp</dimen>
+    <dimen name="qupai_effect_chooser_diy_group_item_size">75dp</dimen>
+    <dimen name="qupai_effect_chooser_item_new_inidcator_height">6dp</dimen>
+    <dimen name="qupai_effect_diyoverlay_operation_guide_size">40dp</dimen>
+    <dimen name="qupai_effect_diyoverlay_operation_size">44dp</dimen>
+    <dimen name="qupai_effect_list_item_border_size">3dp</dimen>
+    <dimen name="qupai_effect_list_item_image_size">66dp</dimen>
+    <dimen name="qupai_effect_list_item_image_with_border_size">72dp</dimen>
+    <dimen name="qupai_effect_list_item_margin">6dp</dimen>
+    <dimen name="qupai_effect_list_item_radius_size">5dp</dimen>
+    <dimen name="qupai_effect_list_item_title_height">25dp</dimen>
+    <dimen name="qupai_effect_list_more_item_image_width">52dp</dimen>
+    <dimen name="qupai_ic_size_small">25dp</dimen>
+    <dimen name="qupai_import_album_item_height_size">84dp</dimen>
+    <dimen name="qupai_import_album_item_width_size">53dp</dimen>
+    <dimen name="qupai_import_tutorial_dialog">105dp</dimen>
+    <dimen name="qupai_overlay_effect_chooser_item_padding">3dp</dimen>
+    <item name="qupai_overlay_effect_group_list_height" type="dimen">@dimen/qupai_overlay_effect_group_list_height_short</item>
+    <dimen name="qupai_overlay_effect_group_list_height_long">42dp</dimen>
+    <dimen name="qupai_overlay_effect_group_list_height_short">32dp</dimen>
+    <item name="qupai_radiogroup_size_edit" type="dimen">@dimen/qupai_radiogroup_size_edit_short</item>
+    <dimen name="qupai_radiogroup_size_edit_long">42dp</dimen>
+    <dimen name="qupai_radiogroup_size_edit_short">32dp</dimen>
+    <dimen name="qupai_seekbar_default_margin">0dp</dimen>
+    <dimen name="qupai_seekbar_playbar_margin">0dp</dimen>
+    <dimen name="qupai_sys_camera_margin">9dp</dimen>
+    <item name="qupai_timeline_size_edit" type="dimen">@dimen/qupai_timeline_size_edit_short</item>
+    <dimen name="qupai_timeline_size_edit_long">45dp</dimen>
+    <dimen name="qupai_timeline_size_edit_short">45dp</dimen>
+    <item name="qupai_timeline_size_recorder" type="dimen">@dimen/qupai_timeline_size_recorder_short</item>
+    <dimen name="qupai_timeline_size_recorder_long">45dp</dimen>
+    <dimen name="qupai_timeline_size_recorder_short">15dp</dimen>
+    <dimen name="qupai_tip_padding_left">138dp</dimen>
+    <dimen name="qupai_tip_padding_preview_y">10dp</dimen>
+    <dimen name="qupai_tip_padding_timeline_x">10dp</dimen>
+    <dimen name="qupai_tip_padding_timeline_y">15dp</dimen>
+    <dimen name="qupai_tip_padding_top">20dp</dimen>
+    <dimen name="qupai_trim_tips_margin_top">100dp</dimen>
+    <dimen name="qupai_trim_tutorial_bottom">45dp</dimen>
+    <dimen name="qupai_trim_tutorial_dialog">135dp</dimen>
+    <item name="qupai_typegroup_margin" type="dimen">@dimen/qupai_typegroup_margin_short</item>
+    <dimen name="qupai_typegroup_margin_long">26dp</dimen>
+    <dimen name="qupai_typegroup_margin_short">29dp</dimen>
+    <item name="qupai_typegroup_more_edit" type="dimen">@dimen/qupai_typegroup_more_edit_short</item>
+    <dimen name="qupai_typegroup_more_edit_long">28dp</dimen>
+    <dimen name="qupai_typegroup_more_edit_short">22dp</dimen>
+    <item name="qupai_typegroup_size_edit" type="dimen">@dimen/qupai_typegroup_size_edit_short</item>
+    <dimen name="qupai_typegroup_size_edit_long">40dp</dimen>
+    <dimen name="qupai_typegroup_size_edit_short">30dp</dimen>
+    <dimen name="qupai_video_editor_tip_effect_offset">-5dp</dimen>
+    <item name="beautyBtn" type="id"/>
+    <item name="btn_gallery" type="id"/>
+    <item name="btn_save" type="id"/>
+    <item name="btn_self_timer" type="id"/>
+    <item name="btn_switch_camera" type="id"/>
+    <item name="camera_frame" type="id"/>
+    <item name="clip_list" type="id"/>
+    <item name="closeBtn" type="id"/>
+    <item name="min_capture_duration_spacer" type="id"/>
+    <item name="nextBtn" type="id"/>
+    <item name="qupai_event_cancel_special_font" type="id"/>
+    <item name="qupai_event_carrieroperator" type="id"/>
+    <item name="qupai_event_download_special_font" type="id"/>
+    <item name="qupai_event_edit_back" type="id"/>
+    <item name="qupai_event_edit_next" type="id"/>
+    <item name="qupai_event_edit_save" type="id"/>
+    <item name="qupai_event_encode_finish" type="id"/>
+    <item name="qupai_event_gif_change" type="id"/>
+    <item name="qupai_event_gif_completedownload_close" type="id"/>
+    <item name="qupai_event_gif_completedownload_no" type="id"/>
+    <item name="qupai_event_gif_completedownload_now" type="id"/>
+    <item name="qupai_event_gif_move" type="id"/>
+    <item name="qupai_event_gif_rotate" type="id"/>
+    <item name="qupai_event_gif_time_length" type="id"/>
+    <item name="qupai_event_gif_time_map" type="id"/>
+    <item name="qupai_event_import_album" type="id"/>
+    <item name="qupai_event_import_cut_ok" type="id"/>
+    <item name="qupai_event_import_draft" type="id"/>
+    <item name="qupai_event_import_local" type="id"/>
+    <item name="qupai_event_import_select_ok" type="id"/>
+    <item name="qupai_event_import_video" type="id"/>
+    <item name="qupai_event_media_player_prepared" type="id"/>
+    <item name="qupai_event_network" type="id"/>
+    <item name="qupai_event_overlay_editor_activate" type="id"/>
+    <item name="qupai_event_record_abandon" type="id"/>
+    <item name="qupai_event_record_autonext" type="id"/>
+    <item name="qupai_event_record_delete_confirm" type="id"/>
+    <item name="qupai_event_record_finish" type="id"/>
+    <item name="qupai_event_record_manualnext" type="id"/>
+    <item name="qupai_event_record_max" type="id"/>
+    <item name="qupai_event_record_min_tutorial" type="id"/>
+    <item name="qupai_event_record_quit" type="id"/>
+    <item name="qupai_event_record_retake" type="id"/>
+    <item name="qupai_event_record_save" type="id"/>
+    <item name="qupai_event_record_start" type="id"/>
+    <item name="qupai_event_start" type="id"/>
+    <item name="qupai_event_unlock_immediately" type="id"/>
+    <item name="qupai_event_unlock_immediately_font" type="id"/>
+    <item name="qupai_event_unlock_immediately_font_keyboard" type="id"/>
+    <item name="qupai_event_unlock_paster" type="id"/>
+    <item name="qupai_event_unlock_temporarily" type="id"/>
+    <item name="qupai_event_unlock_temporarily_font" type="id"/>
+    <item name="qupai_event_unlock_temporarily_font_keyboard" type="id"/>
+    <item name="qupai_event_use_filter" type="id"/>
+    <item name="record_timeline" type="id"/>
+    <item name="timeline_underlay" type="id"/>
+    <item name="item_header_qupai_editor_asset_more" type="layout">@layout/item_header_qupai_editor_asset_more_short</item>
+    <item name="item_header_qupai_editor_asset_null" type="layout">@layout/item_header_qupai_editor_asset_null_short</item>
+    <item name="item_qupai_editor_asset" type="layout">@layout/item_qupai_editor_asset_short</item>
+    <string name="app_camera">切换摄像头</string>
+    <string name="app_name">Qupai.LiteSDK.Test</string>
+    <string name="click_for_paster_sort">点击对动图进行排序</string>
+    <string name="dlg_message_qupai_confirm_start_dubbing">是否要重新配音</string>
+    <string name="dlg_message_qupai_confirm_use_music">确认放弃配音，使用音乐吗？</string>
+    <string name="dlg_message_qupai_confirm_use_mv">若改用其他MV，将清除当前配音</string>
+    <string name="live_create">创建直播并且开始推流</string>
+    <string name="live_play">得到播放URL</string>
+    <string name="live_stop">结束推流</string>
+    <string name="long_click_for_drag">长按按钮后进行拖动</string>
+    <string name="need_download_special_font">该动图使用我们推荐的字体效果更佳</string>
+    <string name="powered_text"/>
+    <string name="qupai_audio_mix_track_dubbing">配音</string>
+    <string name="qupai_audio_mix_track_main">原音</string>
+    <string name="qupai_audio_mix_track_music">音乐</string>
+    <string name="qupai_auth_first_toast">解决方法：请先调用鉴权</string>
+    <string name="qupai_back">返回</string>
+    <string name="qupai_beautyskin">美颜</string>
+    <string name="qupai_beautyskin_close">已关闭美颜功能</string>
+    <string name="qupai_beautyskin_open">已开启美颜功能</string>
+    <string name="qupai_btn_text_download_music">更多音乐</string>
+    <string name="qupai_btn_text_download_mv">更多iMV</string>
+    <string name="qupai_camera_zoom_indicator">×%01.1f</string>
+    <string name="qupai_change_diyoverlay_group">换一换</string>
+    <string name="qupai_decompress_waiting">下载完成，正在安装</string>
+    <string name="qupai_diy_font_color">颜色</string>
+    <string name="qupai_diy_font_keyboard">键盘</string>
+    <string name="qupai_diy_font_typeface">字体</string>
+    <string name="qupai_diy_guide_tip_batch">一大波动图\n正在逼近</string>
+    <string name="qupai_diy_guide_tip_preview">点击这里可进行\n及时预览</string>
+    <string name="qupai_diy_guide_tip_timeline">拖动这里可调整动图\n起始画面和时长呦</string>
+    <string name="qupai_diy_guide_tip_video">拖动调整位置</string>
+    <string name="qupai_diy_locked_remark">使用其他效果发布视频并</string>
+    <string name="qupai_diy_locked_share">分享给</string>
+    <string name="qupai_diy_locked_sms">微信</string>
+    <string name="qupai_diy_locked_sucai">即可解锁整套Myoo动图</string>
+    <string name="qupai_diy_locked_three">3个好友</string>
+    <string name="qupai_diy_text_edit_completed">完成</string>
+    <string name="qupai_dlg_button_cancel">取消</string>
+    <string name="qupai_dlg_button_confirm">确定</string>
+    <string name="qupai_dlg_button_no">否</string>
+    <string name="qupai_dlg_button_ok">确认</string>
+    <string name="qupai_dlg_button_yes">是</string>
+    <string name="qupai_dlg_editor_quit_message">要保存到草稿箱吗？</string>
+    <string name="qupai_dlg_record_abandon_message">要重新拍摄吗？</string>
+    <string name="qupai_dlg_record_abandon_quit">放弃拍摄</string>
+    <string name="qupai_dlg_record_abandon_reset">重新拍摄</string>
+    <string name="qupai_dlg_record_quit_save">要保存草稿修改吗？</string>
+    <string name="qupai_download_cancel">暂不下载</string>
+    <string name="qupai_download_diyoverlay_group">整套下载</string>
+    <string name="qupai_download_failed_goon">网络不给力，请检查网络</string>
+    <string name="qupai_download_goon">继续</string>
+    <string name="qupai_download_immediately">立即下载</string>
+    <string name="qupai_download_paster_all">动图还未下载,是否立即\n下载整套动图？</string>
+    <string name="qupai_download_paster_goahead">该动图未完成下载\n是否继续下载</string>
+    <string name="qupai_downloading">下载中</string>
+    <string name="qupai_downloading_waiting">正在下载，请稍后</string>
+    <string name="qupai_dubbing_title">配音</string>
+    <string name="qupai_effect_animation_overlay">动图</string>
+    <string name="qupai_effect_audio_mix">音乐</string>
+    <string name="qupai_effect_caption">字幕</string>
+    <string name="qupai_effect_filter">滤镜</string>
+    <string name="qupai_effect_mv">iMV</string>
+    <string name="qupai_effect_text_color">纯色</string>
+    <string name="qupai_effect_text_stroke">描边</string>
+    <string name="qupai_file_can_not_delete">该视频无法删除</string>
+    <string name="qupai_function_message">请选择拍摄类型</string>
+    <string name="qupai_gallery_activity_title">导入</string>
+    <string name="qupai_gallery_tab_title_draft">草稿</string>
+    <string name="qupai_gallery_tab_title_import_photo">本地图片</string>
+    <string name="qupai_gallery_tab_title_import_video">本地视频</string>
+    <string name="qupai_import_empty_message">你还没有本地视频</string>
+    <string name="qupai_import_toast">仅支持小于10分钟的视频</string>
+    <string name="qupai_import_video_guide">从相册中选一个\n你的精彩视频</string>
+    <string name="qupai_imv">使用其他特效发布视频并分享到朋友圈，即可解锁3个iMV</string>
+    <string name="qupai_imv_locked_free">，即可解锁</string>
+    <string name="qupai_imv_locked_remark">使用其他特效发布视频并分享到\r\n</string>
+    <string name="qupai_imv_locked_unlock">3个iMV</string>
+    <string name="qupai_imv_locked_wx">微信朋友圈</string>
+    <string name="qupai_install_font">正在安装字体</string>
+    <string name="qupai_live">直播</string>
+    <string name="qupai_loading_font_waiting">正在下载字体</string>
+    <string name="qupai_media_face_detect_process_name"/>
+    <string name="qupai_media_process_name"/>
+    <string name="qupai_media_workspace_dir">qupai_workspace</string>
+    <string name="qupai_message_camera_acquisition_failure">暂时无法录制\n请确认摄像机是否已被其它程序占用</string>
+    <string name="qupai_message_no_memory_failure">手机存储空间不足，暂时无法录制</string>
+    <string name="qupai_no_photo_file">照片文件不存在</string>
+    <string name="qupai_no_sdcard_exit">SD卡不可用,不能录制</string>
+    <string name="qupai_no_sdcard_exit_photo">SD卡不可用,不能拍照</string>
+    <string name="qupai_no_video_file">视频文件不存在</string>
+    <string name="qupai_nodraft">你还没有保存过草稿</string>
+    <string name="qupai_novideo">你还没有本地视频</string>
+    <string name="qupai_overlay_guide_tip_manage">可以对动图进行管理和排序</string>
+    <string name="qupai_paster_download_first_success">下载成功，你可以前往设置-视频特效管理中管理特效</string>
+    <string name="qupai_paster_download_success">下载成功</string>
+    <string name="qupai_photo">照片</string>
+    <string name="qupai_photo_decode_failed">无法解析照片文件</string>
+    <string name="qupai_project_saved_toast">已保存到草稿箱</string>
+    <string name="qupai_recommend_cancel">暂不推荐</string>
+    <string name="qupai_recommend_immediately">立即推荐</string>
+    <string name="qupai_recorder_face_appear_tip">已检测到人脸，添加表情动图更方便</string>
+    <string name="qupai_recorder_gallery_tip_ok">好的</string>
+    <string name="qupai_recorder_know">知道了</string>
+    <string name="qupai_recorder_timeline_time_format">%.1f秒</string>
+    <string name="qupai_skinlevelprocess">80%</string>
+    <string name="qupai_sound_mixer_effect_none">原音</string>
+    <string name="qupai_sure_delete_current_photo">确定要删除本照片吗？</string>
+    <string name="qupai_sure_delete_current_video">确定要删除本视频吗？</string>
+    <string name="qupai_sure_delete_draft">确定要删除草稿吗？</string>
+    <string name="qupai_text_count_outof">你输入的字数已经超过了限制!</string>
+    <string name="qupai_toast_asset_download_failure">下载失败！</string>
+    <string name="qupai_transcode_in_progress">请稍等 …</string>
+    <string name="qupai_trim_guide_drag">移动选取最佳画面</string>
+    <string name="qupai_trim_guide_drag_thumbnail">拖动手柄或视频缩略图，调整剪裁时间</string>
+    <string name="qupai_trim_open_video_failed">无法打开视频文件</string>
+    <string name="qupai_trim_video_failed">无法导入视频文件</string>
+    <string name="qupai_unlock_diyoverlay_group">立即解锁</string>
+    <string name="qupai_ve_none">原片</string>
+    <string name="qupai_video">视频</string>
+    <item format="string" name="qupai_video_activity_parent" type="string"/>
+    <string name="qupai_video_album_list">相册</string>
+    <string name="qupai_video_edit_activity_title">编辑视频</string>
+    <string name="qupai_video_recorder_tip_beauty_skin">拥有神奇效果的美颜功能</string>
+    <string name="qupai_video_recorder_tip_before_start_1">按住</string>
+    <string name="qupai_video_recorder_tip_before_start_2">拍摄按钮进行拍摄</string>
+    <string name="qupai_video_recorder_tip_confirm_delete">再次点击将删除\n最后一段视频</string>
+    <string name="qupai_video_recorder_tip_first_delete">点击这里可删除\n不满意的片段</string>
+    <string name="qupai_video_recorder_tip_first_stop_1">换个场景，</string>
+    <string name="qupai_video_recorder_tip_first_stop_2">按住</string>
+    <string name="qupai_video_recorder_tip_first_stop_3">继续拍摄</string>
+    <string name="qupai_video_recorder_tip_import">可以导入本地视频啦</string>
+    <string name="qupai_video_recorder_tip_progress_1">松开</string>
+    <string name="qupai_video_recorder_tip_progress_2">可暂停</string>
+    <string name="qupai_video_recorder_tip_recording_1">可录制</string>
+    <string name="qupai_video_recorder_tip_recording_2">%1$d至%2$d秒</string>
+    <string name="qupai_video_recorder_tip_recording_3">时长的视频</string>
+    <string name="qupai_video_recorder_tip_save_completion">视频保存在这里哟</string>
+    <string name="qupai_video_recorder_tip_stop_1">继续</string>
+    <string name="qupai_video_recorder_tip_stop_2">拍摄</string>
+    <string name="qupai_video_recorder_tip_stop_3">或点击</string>
+    <string name="qupai_video_recorder_tip_stop_4">预览</string>
+    <string name="qupai_video_trim">裁剪</string>
+    <string name="qupai_video_trim_tips">拖动剪刀或缩略图裁剪视频</string>
+    <string name="recommend_to_weixin_for_unlock_font">推荐趣拍到微信朋友圈即可解锁该字体</string>
+    <string name="recommend_to_weixin_for_unlock_paster">推荐趣拍到微信朋友圈即可解锁该套动图</string>
+    <string name="settting_new_version">版本更新</string>
+    <string name="tip_qupai_self_timer_countdown">5秒后将开始自动拍摄</string>
+    <string name="tip_qupai_self_timer_countdown_cancel_1">点击</string>
+    <string name="tip_qupai_self_timer_countdown_cancel_2">退出倒计时</string>
+    <string name="toast_qupai_project_auto_save">已自动保存至草稿箱</string>
+    <string name="toggle_switch_beauty_off">美颜关闭</string>
+    <string name="toggle_switch_beauty_on">美颜开启</string>
+    <string name="update_later">以后再说</string>
+    <string name="update_now">立即更新</string>
+    <style name="AlertDialog.Qupai.Recorder" parent="">
+        <item name="android:bottomBright">@android:color/transparent</item>
+        <item name="android:bottomDark">@android:color/transparent</item>
+        <item name="android:bottomMedium">@android:color/transparent</item>
+        <item name="android:centerBright">@android:color/transparent</item>
+        <item name="android:centerDark">@android:color/transparent</item>
+        <item name="android:centerMedium">@android:color/transparent</item>
+        <item name="android:fullBright">@android:color/transparent</item>
+        <item name="android:fullDark">@android:color/transparent</item>
+        <item name="android:topBright">@android:color/transparent</item>
+        <item name="android:topDark">@android:color/transparent</item>
+        <item name="progressLayout">@layout/dlg_qupai_recorder_render_progress</item>
+    </style>
+    <style name="Animation.TypingFilter" parent="android:Animation">
+    </style>
+    <style name="Animation.TypingFilterRestore" parent="android:Animation">
+    </style>
+    <style name="CommentDlgStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>        
+        
+    </style>
+    <style name="DIY.Dialog.Fullscreen" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>        
+      
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowIsFloating">true</item>        
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+
+    </style>
+    <style name="ProgressBar.Qupai.Render" parent="">
+        <item name="android:indeterminateDrawable">@drawable/progress_qupai_circle</item>
+        <item name="android:indeterminateDuration">800</item>
+        <item name="android:minWidth">76dip</item>
+        <item name="android:maxWidth">76dip</item>
+        <item name="android:minHeight">76dip</item>
+        <item name="android:maxHeight">76dip</item>
+        <item name="android:max">100</item>
+    </style>
+    <style name="Qupai.ActivityNoAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityCloseExitAnimation">@anim/activity_close_qupai_exit</item>
+    </style>
+    <style name="Qupai.Text.BalloonTip" parent="">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="Qupai.Text.BalloonTip.Large">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Qupai.Text.BalloonTip.Medium">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Qupai.Text.Recorder.BalloonTip" parent="">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="Qupai.Text.Recorder.BalloonTip.Large">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/quit_confirm_normal</item>
+    </style>
+    <style name="Qupai.Text.Recorder.BalloonTip.Medium">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/qupai_recording_tip_text_color</item>
+    </style>
+    <style name="Qupai.Text.Recorder.BalloonTip.Mediumless">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Qupai.Text.Recorder.BalloonTip.Small">
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="Qupai.Widget.Default.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:minHeight">10dp</item>
+        <item name="android:maxHeight">10dp</item>
+        <item name="android:progressDrawable">@drawable/theme_default_qupai_progress_drawable</item>
+    </style>
+    <style name="Qupai.Widget.Default.SeekBar" parent="@android:style/Widget.DeviceDefault.SeekBar">
+        <item name="android:progressDrawable">@drawable/theme_default_qupai_seek_bar_progress_drawable</item>
+        <item name="android:indeterminateDrawable">@drawable/theme_default_qupai_seek_bar_progress_drawable</item>
+        <item name="android:thumb">@drawable/seek_bar_qupai_thumb</item>
+        <item name="android:thumbOffset">9dp</item>
+        <item name="android:paddingLeft">9dp</item>
+        <item name="android:paddingRight">9dp</item>
+        <item name="android:maxHeight">3dp</item>
+    </style>
+    <style name="Qupai.Widget.RadioButton.EffectChooser" parent="@android:style/Widget.DeviceDefault.TextView">
+        <item name="android:width">80dp</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">?attr/qupaiEditEffectTextColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Qupai.Widget.RadioButton.OverlayEffectChooser" parent="@android:style/Widget.DeviceDefault.TextView">
+        <item name="android:background">@drawable/tab_indicator_qupai_overlay_text_effect</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="TextAppearance.Widget.TabWidget.Qupai.Recorder" parent="android:TextAppearance.Widget.TabWidget">
+        <item name="android:textColor">@color/tab_widget_bg_qupai_drafts</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextDlgStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>        
+        
+    </style>
+    <style name="Theme.Dialog.Overlay" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">false</item>
+
+        <!-- from Theme.Dialog.NoFrame -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="Theme.Dialog.Overlay.Fullscreen">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.Dialog.Overlay.Fullscreen.Gallery">
+        <item name="android:windowBackground">@color/black_transparent_50</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.Dialog.Overlay.Fullscreen.Mask">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Theme.Dialog.Overlay.Fullscreen.Translucent">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Dialog.Recorder" parent="@android:style/Theme.DeviceDefault.Dialog.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:alertDialogStyle">@style/AlertDialog.Qupai.Recorder</item>
+        <item name="alertDialogStyle">@style/AlertDialog.Qupai.Recorder</item>
+    </style>
+    <style name="Theme.Qupai.Video" parent="android:Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+
+        <item name="absHListViewStyle">@style/Widget.AbsHListView</item>
+        <item name="hListViewStyle">@style/Widget.HListView</item>
+    </style>
+    <style name="Theme.Qupai.Video.Default" parent="Theme.Qupai.Video">
+        <item name="android:progressBarStyleHorizontal">@style/Qupai.Widget.Default.ProgressBar.Horizontal</item>
+        <item name="android:actionButtonStyle">@style/Widget.ActionButton.Qupai.Recorder</item>
+        <item name="android:windowTitleStyle">@style/WindowTitle.Qupai.Recorder</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:tabWidgetStyle">@style/Widget.TabWidget.Qupai.Recorder</item>
+        <item name="android:imageButtonStyle">@style/Widget.ImageButton.Qupai.Recorder</item>
+        <item name="android:seekBarStyle">@style/Qupai.Widget.Default.SeekBar</item>
+        <item name="qupaiRecordNextStepTickButton">@drawable/theme_default_btn_qupai_record_next_step_tick</item>
+        <item name="qupaiNextStepTickButton">@drawable/theme_default_btn_qupai_next_step_tick</item>
+        <item name="qupaiNextStepArrowButton">@drawable/theme_default_qupai_btn_next_step_arrow</item>
+        <item name="qupaiRecorderTimelineClip">@drawable/theme_default_qupai_recorder_timeline_clip</item>
+        <item name="qupaiTabIndicator">@drawable/theme_default_qupai_tab_indicator</item>
+        <item name="qupaiEditEffectTabIndicator">@drawable/theme_default_qupai_tab_indicator_edit_effect</item>
+        <item name="qupaiEditEffectTextColor">@color/theme_default_qupai_text_edit_effect</item>
+        <item name="qupaiEditEffectAudioMixIcon">@drawable/theme_default_ic_edit_effect_audio_mix</item>
+        <item name="qupaiSweepLeft">@drawable/theme_qupai_default_sweep_left</item>
+        <item name="qupaiSweepright">@drawable/theme_qupai_default_sweep_right</item>
+        <item name="colorPrimary">@color/defalut_primary_color</item>
+        <item name="qupaiTrimRecordColor">@color/trim_seekbar_primary_color</item>
+        <item name="qupaiBeautySkinHead">@drawable/theme_default_btn_qupai_toggle_beauty_skin</item>
+        <item name="qupaiDIYOverlayEditbar">@drawable/theme_default_qupai_diy_editbar_end_selector</item>
+        <item name="qupaiDIYOverlayEditbar_frame">@drawable/theme_default_qupai_diy_editbar_rectstroke</item>
+        <item name="qupaiDIYOverlayEditbar_progress">@drawable/theme_default_thumb_qupai_diy_editbar</item>
+        <item name="qupaiDIYOverlayContent_frame">@drawable/theme_default_qupai_edit_diy_overlay_content_frame_selector</item>
+        <item name="qupaiDIYOverlayDotte_frame">@drawable/theme_default_edit_diy_overlay_dotte_frame_selector</item>
+        <item name="qupaiDiyMaskColor">@color/defalut_primary_color_alpha40</item>
+        <item name="qupaiDIYOverlayCancel">@drawable/theme_default_qupai_btn_edit_overlay_cancel_selector</item>
+        <item name="qupaiDIYOverlayTransform">@drawable/theme_default_qupai_btn_edit_overlay_transform_selector</item>
+        <item name="qupaiDIYOverlayText">@drawable/theme_default_qupai_btn_edit_overlay_text_selector</item>
+        <item name="qupaiEffectListMoreItem">@drawable/theme_default_qupai_effect_list_more_item</item>
+        <item name="qupaiOverlayListDownload">@drawable/theme_default_qupai_overlay_list_download_item</item>
+        <item name="qupaiSelfTimerButton">@drawable/theme_default_btn_qupai_self_timer</item>
+        <item name="qupaiDubbingButton">@drawable/theme_default_btn_qupai_dubbing</item>
+        <item name="qupaiDubbingAmplitudeProgress">@drawable/theme_default_progress_qupai_dubbing_amplitude</item>
+    </style>
+    <style name="Theme.RenderProgress" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/Qupai.ActivityNoAnimation</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Qupai.Render</item>
+    </style>
+    <style name="Widget.AbsHListView" parent="android:Widget">
+        <item name="android:scrollbars">horizontal</item>
+        <item name="android:fadingEdge">horizontal</item>
+    </style>
+    <style name="Widget.ActionButton.Qupai.Recorder" parent="">
+        <item name="android:padding">4dp</item>
+    </style>
+    <style name="Widget.HListView" parent="Widget.AbsHListView">
+        <item name="android:listSelector">@android:drawable/list_selector_background</item>
+        <item name="android:cacheColorHint">?android:attr/colorBackgroundCacheHint</item>
+        <item name="android:divider">@null</item>
+    </style>
+    <style name="Widget.ImageButton.Qupai.Recorder" parent="android:Widget.ImageButton">
+        <item name="android:background">@null</item>
+        <item name="android:padding">3dp</item>
+    </style>
+    <style name="Widget.TabWidget.Qupai.Recorder" parent="android:Widget.TabWidget">
+        <item name="android:textAppearance">@style/TextAppearance.Widget.TabWidget.Qupai.Recorder</item>
+        <item name="android:tabStripLeft">@null</item>
+        <item name="android:tabStripRight">@null</item>
+        <item name="android:tabStripEnabled">false</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="WindowTitle.Qupai.Recorder" parent="">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="qupai_alert" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:textSize">18sp</item>
+        <item name="android:foregroundGravity">center</item>
+    </style>
+    <style name="qupai_text">
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--AUTO GENERATED, DO NOT MODIFY-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@drawable/theme_default_btn_qupai_dubbing_activated" android:state_activated="true"/>
+  <item android:drawable="@drawable/btn_qupai_dubbing_pressed" android:state_pressed="true"/>
+  <item android:drawable="@drawable/btn_qupai_dubbing_default"/>
+</selector>

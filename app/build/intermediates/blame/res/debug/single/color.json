@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_widget_bg_qupai_drafts.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\color\\tab_widget_bg_qupai_drafts.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\qupai_audio_mixer_dubbing_text_selector.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\color\\qupai_audio_mixer_dubbing_text_selector.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\qupai_effect_chooser_item_text_long.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\color\\qupai_effect_chooser_item_text_long.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\theme_default_qupai_text_edit_effect.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\color\\theme_default_qupai_text_edit_effect.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_edit_text_qupai_overlay.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\color\\tab_edit_text_qupai_overlay.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "J:\\Hu_work\\tools\\anndroid_workpace\\CircleDemo\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_light.xml"
+    }
+]

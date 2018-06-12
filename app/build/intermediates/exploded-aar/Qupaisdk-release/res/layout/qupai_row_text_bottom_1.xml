@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:background="@android:color/transparent"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:emojicon="http://schemas.android.com/apk/res-auto">
+
+	<FrameLayout
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1">
+
+		<com.duanqu.qupai.view.SquareFrameLayout
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:id="@+id/video"
+				android:layout_gravity="bottom"/>
+
+	</FrameLayout>
+
+	<LinearLayout
+			android:id="@+id/comment_input_layout"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="bottom"
+			android:orientation="vertical" >
+
+		<View
+				android:layout_width="match_parent"
+				android:layout_height="1dp"
+				android:background="@color/qupai_gray_0x19" />
+
+		<FrameLayout
+				android:layout_width="match_parent"
+				android:layout_height="match_parent">
+			<LinearLayout
+					android:id="@+id/comment_edittext_layout"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:background="@color/qupai_text_dialog_bg"
+					android:orientation="horizontal"
+					android:gravity="center_vertical">
+
+				<LinearLayout
+						android:layout_width="50dp"
+						android:layout_height="match_parent"
+						android:orientation="vertical"
+						android:gravity="center"
+						android:layout_gravity="center"
+						>
+					<ImageView
+							android:layout_width="match_parent"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:id="@+id/color_selector"
+							android:src="@drawable/tab_color_qupai_selector"/>
+
+					<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:gravity="center"
+						android:text="@string/qupai_diy_font_color"/>
+				</LinearLayout>
+
+
+				<LinearLayout
+						android:layout_width="0px"
+						android:layout_height="match_parent"
+						android:layout_weight="1"
+						android:layout_marginLeft="5dp"
+						android:id="@+id/input_edit"
+						android:orientation="horizontal">
+
+					<EditText
+							android:id="@+id/comment_edit"
+							android:layout_width="0px"
+							android:layout_height="match_parent"
+							android:layout_weight="1"
+							android:gravity="center_vertical"
+							android:layout_gravity="center_vertical"
+							android:background="@null"
+							android:focusable="true"
+							android:focusableInTouchMode="true"
+							android:inputType="none"
+							android:textAllCaps="false"
+							android:lines="2"
+							android:paddingTop="8dp"
+							android:paddingBottom="8dp"
+							android:textColor="@color/qupai_gray_0x19"
+							android:textCursorDrawable="@null"
+							android:textSize="18sp"/>
+					<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="match_parent"
+							android:textSize="18sp"
+							android:id="@+id/textlimit"
+							android:layout_marginLeft="3dp"
+							android:layout_gravity="right"
+							android:gravity="center_vertical"/>
+
+				</LinearLayout>
+
+				<FrameLayout
+						android:layout_width="65dp"
+						android:layout_height="fill_parent"
+						>
+
+					<TextView
+							android:id="@+id/comment_send"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginRight="15dp"
+							android:gravity="center"
+							android:textSize="18sp"
+							android:layout_gravity="right|center_vertical"
+							android:text="完成"/>
+				</FrameLayout>
+			</LinearLayout>
+			<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:layout_gravity="center"
+					android:orientation="horizontal"
+					android:visibility="gone"
+					android:id="@+id/color_list_tab">
+
+				<ImageView
+						android:layout_width="40dp"
+						android:layout_height="match_parent"
+						android:src="@drawable/text_qupai_stroke_color_tab_selector"
+						android:background="@drawable/qupai_color_list_tab_indicator"
+						android:scaleType="center"
+						android:layout_marginRight="10dp"
+						android:id="@+id/text_color_stroke"/>
+
+				<ImageView
+						android:layout_width="40dp"
+						android:layout_height="match_parent"
+						android:src="@drawable/text_color_qupai_tab_selector"
+						android:background="@drawable/qupai_color_list_tab_indicator"
+						android:scaleType="center"
+						android:layout_marginLeft="10dp"
+						android:id="@+id/text_color"/>
+
+			</LinearLayout>
+		</FrameLayout>
+
+
+		<FrameLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingTop="20dp"
+				android:paddingBottom="20dp"
+				android:paddingLeft="10dp"
+				android:paddingRight="10dp"
+				android:background="@color/qupai_bg_color_list"
+				android:id="@+id/color_container"
+				android:visibility="gone">
+			<GridView
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:id="@+id/color_stroke_list"
+					android:horizontalSpacing="20dp"
+					android:verticalSpacing="20dp"
+					android:numColumns="6"
+					android:listSelector="@android:color/transparent"
+					android:cacheColorHint="@android:color/transparent"
+					android:choiceMode="singleChoice"
+					android:stretchMode="columnWidth"
+					android:layout_gravity="center"
+					android:gravity="center"
+					android:scrollbars="none"
+					/>
+
+			<GridView
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:id="@+id/color_list"
+					android:horizontalSpacing="20dp"
+					android:verticalSpacing="20dp"
+					android:numColumns="6"
+					android:listSelector="@android:color/transparent"
+					android:cacheColorHint="@android:color/transparent"
+					android:choiceMode="singleChoice"
+					android:stretchMode="columnWidth"
+					android:layout_gravity="center"
+					android:gravity="center"
+					android:scrollbars="none"
+					/>
+		</FrameLayout>
+
+	</LinearLayout>
+</LinearLayout>

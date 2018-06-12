@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="top|left"
+    android:layout_marginTop="@dimen/qupai_action_bar_size_recorder_short"
+    android:background="@drawable/quit_confirm_bg">
+    
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="8dp"></View>
+    
+    <Button
+        android:id="@+id/btn_qupai_quit_confirm"
+        android:layout_width="140dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="23dp"
+        android:background="@drawable/btn_qupai_quit_confirm_selector"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:text="关闭"/>
+    <Button
+        android:id="@+id/btn_qupai_remake_comfirm"
+        android:layout_width="140dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="23dp"
+        android:gravity="center"
+        android:background="@drawable/btn_qupai_remake_confirm_selector"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:text="重拍"/>
+
+</LinearLayout>

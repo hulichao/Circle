@@ -1,0 +1,24 @@
+-keep class com.yiw.circledemo.MyApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.yiw.circledemo.activity.MainActivity { <init>(); }
+-keep class com.yiw.circledemo.activity.ImagePagerActivity { <init>(); }
+-keep class com.duanqu.qupai.trim.VideoTrimActivity { <init>(); }
+-keep class com.duanqu.qupai.trim.VideoFileActivity { <init>(); }
+-keep class com.duanqu.qupai.trim.VideoGalleryActivity { <init>(); }
+-keep class com.duanqu.qupai.MediaServer { <init>(); }
+-keep class com.duanqu.qupai.ui.render.RenderProgressActivity { <init>(); }
+-keep class com.duanqu.qupai.VideoActivity { <init>(); }
+-keep class com.duanqu.qupai.PhotoActivity { <init>(); }
+-keep class com.duanqu.qupai.DraftsActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

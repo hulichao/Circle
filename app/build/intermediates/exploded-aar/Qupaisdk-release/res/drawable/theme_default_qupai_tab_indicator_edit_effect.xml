@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_activated="true">
+        <layer-list>
+            <item>
+                <inset android:insetLeft="10dp" android:insetRight="10dp">
+                    <shape android:shape="rectangle" >
+                        <solid android:color="@color/defalut_primary_color"/>
+                        <corners android:radius="1.5dp"/>
+                    </shape>
+                </inset>
+            </item>
+            <item>
+                <inset android:insetBottom="4dp">
+                    <color android:color="@android:color/white" />
+                </inset>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <color android:color="@android:color/white" />
+    </item>
+</selector>

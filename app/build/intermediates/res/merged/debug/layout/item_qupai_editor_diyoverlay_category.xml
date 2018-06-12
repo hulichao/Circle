@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/category_item"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/qupai_typegroup_size_edit"
+    android:layout_gravity="center"
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_gravity="bottom"
+            android:background="?attr/qupaiEditEffectTabIndicator"/>
+
+        <TextView
+            android:id="@+id/diy_group_item_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_gravity="center"
+            android:paddingTop="3dp"
+            android:gravity="center"
+            android:textColor="@drawable/diy_group_qupai_text_selector"
+            android:textSize="15sp" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/effect_category_item_new"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:contentDescription="@null"
+        android:src="@drawable/qupai_editor_asset_tag_new"/>
+
+    <ImageView
+        android:id="@+id/effect_category_item_locked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:contentDescription="@null"
+        android:src="@drawable/more_qupai_diy_tag_lock" />
+
+</FrameLayout>
